@@ -16,7 +16,7 @@ git clone https://github.com/zogojogo/face-recognition-wii.git
 Go to the project directory
 
 ```bash
-cd fr-kris
+cd face-recognition-wii
 ```
 
 Download Dependencies
